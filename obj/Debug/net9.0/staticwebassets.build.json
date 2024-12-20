@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UKkrDmQU6cw8GH2L2lNT/WskJ+m8Tj7CdXsMzeNEyIo=",
+  "Source": "azure-app-demo",
+  "BasePath": "_content/azure-app-demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
